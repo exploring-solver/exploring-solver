@@ -15,6 +15,7 @@
   <img src="https://img.icons8.com/?size=512&id=pCvIfmctRaY8&format=png" width="36" height="36">
   <img src="https://img.icons8.com/?size=512&id=39855&format=png" width="36" height="36">
   <img src="https://img.icons8.com/?size=512&id=38389&format=png" width="36" height="36">
+  <img src="https://icons8.com/icon/74402/mongodb" width="36" height="36">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-1521500-1288242.png?f=avif&w=256" width="36" height="36">
 </p>
 
