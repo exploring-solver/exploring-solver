@@ -6,7 +6,7 @@
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Skills </b>
 <p align="centre">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-57-1175191.png?f=avif&w=256" width="36" height="36">
-  <img src="https://img.icons8.com/?size=512&id=55199&format=png" width="36" height="36">
+  <img width="36" height="36" src="https://img.icons8.com/color/36/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
   <img src="https://img.icons8.com/?size=512&id=l75OEUJkPAk4&format=png" width="36" height="36">
   <img src="https://img.icons8.com/?size=512&id=qV-JzWYl9dzP&format=png" width="36" height="36">
   <img src="https://img.icons8.com/?size=512&id=23028&format=png" width="36" height="36">
@@ -25,6 +25,7 @@
   <img width="36" height="36" src="https://img.icons8.com/color/36/typescript.png" alt="typescript"/>
   <img width="36" height="36" src="https://img.icons8.com/ios/36/developer--v1.png" alt="developer--v1"/>
   <img width="36" height="36" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/36/external-explorer-jungle-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" alt="external-explorer-jungle-vitaliy-gorbachev-lineal-color-vitaly-gorbachev"/>
+  <img width="36" height="36" src="https://img.icons8.com/color/36/tailwindcss.png" alt="tailwindcss"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
