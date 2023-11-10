@@ -26,6 +26,8 @@
   <img width="36" height="36" src="https://img.icons8.com/ios/36/developer--v1.png" alt="developer--v1"/>
   <img width="36" height="36" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/36/external-explorer-jungle-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" alt="external-explorer-jungle-vitaliy-gorbachev-lineal-color-vitaly-gorbachev"/>
   <img width="36" height="36" src="https://img.icons8.com/color/36/tailwindcss.png" alt="tailwindcss"/>
+  <img width="36" height="36" src="https://img.icons8.com/office/36/video-editing.png" alt="video-editing"/>
+  <img width="36" height="36" src="https://img.icons8.com/fluency/36/canva.png" alt="canva"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
