@@ -28,4 +28,4 @@
 </div>
 
 ### <b> Socials </b>
-[https://linktr.ee/chanme](https://linktr.ee/exploring_solver)https://linktr.ee/exploring_solver
+https://linktr.ee/exploring_solver
