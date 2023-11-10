@@ -16,6 +16,7 @@
   <img src="https://img.icons8.com/?size=512&id=39855&format=png" width="36" height="36">
   <img src="https://img.icons8.com/?size=512&id=38389&format=png" width="36" height="36">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-1521500-1288242.png?f=avif&w=256" width="36" height="36">
+  <img width="36" height="36" src="https://img.icons8.com/external-outline-black-m-oki-orlando/36/external-link-multimedia-outline-outline-black-m-oki-orlando-2.png" alt="external-link-multimedia-outline-outline-black-m-oki-orlando-2"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
