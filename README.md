@@ -16,7 +16,15 @@
   <img src="https://img.icons8.com/?size=512&id=39855&format=png" width="36" height="36">
   <img src="https://img.icons8.com/?size=512&id=38389&format=png" width="36" height="36">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-1521500-1288242.png?f=avif&w=256" width="36" height="36">
-  <img width="36" height="36" src="https://img.icons8.com/external-outline-black-m-oki-orlando/36/external-link-multimedia-outline-outline-black-m-oki-orlando-2.png" alt="external-link-multimedia-outline-outline-black-m-oki-orlando-2"/>
+  <img width="36" height="36" src="https://img.icons8.com/color/36/mongodb.png" alt="mongodb"/>
+  <img width="36" height="36" src="https://img.icons8.com/office/36/react.png" alt="react"/>
+  <img width="36" height="36" src="https://img.icons8.com/color/36/blockchain.png" alt="blockchain"/>
+  <img width="36" height="36" src="https://img.icons8.com/ios/36/solidity.png" alt="solidity"/>
+  <img width="36" height="36" src="https://img.icons8.com/ios/36/laptop-coding.png" alt="laptop-coding"/>
+  <img width="36" height="36" src="https://img.icons8.com/ios/36/designer.png" alt="designer"/>
+  <img width="36" height="36" src="https://img.icons8.com/color/36/typescript.png" alt="typescript"/>
+  <img width="36" height="36" src="https://img.icons8.com/ios/36/developer--v1.png" alt="developer--v1"/>
+  <img width="36" height="36" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/36/external-explorer-jungle-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" alt="external-explorer-jungle-vitaliy-gorbachev-lineal-color-vitaly-gorbachev"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
