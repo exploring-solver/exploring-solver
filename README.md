@@ -4,33 +4,6 @@
 
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Skills </b>
-<p align="centre">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-57-1175191.png?f=avif&w=256" width="36" height="36">
-  <img width="36" height="36" src="https://img.icons8.com/color/36/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-  <img src="https://img.icons8.com/?size=512&id=l75OEUJkPAk4&format=png" width="36" height="36">
-  <img src="https://img.icons8.com/?size=512&id=qV-JzWYl9dzP&format=png" width="36" height="36">
-  <img src="https://img.icons8.com/?size=512&id=23028&format=png" width="36" height="36">
-  <img src="https://img.icons8.com/?size=512&id=YjeKwnSQIBUq&format=png" width="36" height="36">
-  <img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" width="36" height="36">
-  <img src="https://img.icons8.com/?size=512&id=pCvIfmctRaY8&format=png" width="36" height="36">
-  <img src="https://img.icons8.com/?size=512&id=39855&format=png" width="36" height="36">
-  <img src="https://img.icons8.com/?size=512&id=38389&format=png" width="36" height="36">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-1521500-1288242.png?f=avif&w=256" width="36" height="36">
-  <img width="36" height="36" src="https://img.icons8.com/color/36/mongodb.png" alt="mongodb"/>
-  <img width="36" height="36" src="https://img.icons8.com/office/36/react.png" alt="react"/>
-  <img width="36" height="36" src="https://img.icons8.com/color/36/blockchain.png" alt="blockchain"/>
-  <img width="36" height="36" src="https://img.icons8.com/ios/36/solidity.png" alt="solidity"/>
-  <img width="36" height="36" src="https://img.icons8.com/ios/36/laptop-coding.png" alt="laptop-coding"/>
-  <img width="36" height="36" src="https://img.icons8.com/ios/36/designer.png" alt="designer"/>
-  <img width="36" height="36" src="https://img.icons8.com/color/36/typescript.png" alt="typescript"/>
-  <img width="36" height="36" src="https://img.icons8.com/ios/36/developer--v1.png" alt="developer--v1"/>
-  <img width="36" height="36" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/36/external-explorer-jungle-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" alt="external-explorer-jungle-vitaliy-gorbachev-lineal-color-vitaly-gorbachev"/>
-  <img width="36" height="36" src="https://img.icons8.com/color/36/tailwindcss.png" alt="tailwindcss"/>
-  <img width="36" height="36" src="https://img.icons8.com/office/36/video-editing.png" alt="video-editing"/>
-  <img width="36" height="36" src="https://img.icons8.com/fluency/36/canva.png" alt="canva"/>
-  
-
-</p>
 
 ### Language :
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
