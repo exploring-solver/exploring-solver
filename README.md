@@ -3,6 +3,7 @@
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=4800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Aman Welcome to my Profile! animated typed out"> </h1>
 
 
+
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Skills </b>
 
 ### Language :
@@ -80,6 +81,6 @@
 ![exploring-solver's Streak](https://github-readme-streak-stats.herokuapp.com/?user=exploring-solver&theme=vue-dark&hide_border=true)
 
 </div>
-
+![](https://komarev.com/ghpvc/?username=exploring-solver)
 ### <b> Socials </b>
 https://linktr.ee/exploring_solver
