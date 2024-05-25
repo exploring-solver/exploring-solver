@@ -81,6 +81,8 @@
 ![exploring-solver's Streak](https://github-readme-streak-stats.herokuapp.com/?user=exploring-solver&theme=vue-dark&hide_border=true)
 
 </div>
+
 ![](https://komarev.com/ghpvc/?username=exploring-solver)
+
 ### <b> Socials </b>
 https://linktr.ee/exploring_solver
