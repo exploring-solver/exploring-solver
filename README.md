@@ -73,8 +73,14 @@
 ![aaPanel](https://img.shields.io/badge/aaPanel-%231E90FF.svg?style=flat&logo=aaPanel&logoColor=white)
 
 
+## <img src="https://media.giphy.com/media/IX96Ceg5hiMNBn7Ls7/giphy.gif" width="35"><b>Some Achievements</b>
+### Build for Bharat '24 Winner powered by Google Cloud, Paytm and Antler
+### Smart India Hackathon '23 Winner by Govt. Of India
+### HackXtreme '23 Winner by IIT Delhi...
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
 <br>
+
 <div align="center">
 
 ![exploring-solver's Stats](https://github-readme-stats.vercel.app/api?username=exploring-solver&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) <br>
