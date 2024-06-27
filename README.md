@@ -75,8 +75,8 @@
 
 ## <img src="https://media.giphy.com/media/IX96Ceg5hiMNBn7Ls7/giphy.gif" width="35"><b>Some Achievements</b>
 ### Build for Bharat '24 Winner powered by Google Cloud, Paytm and Antler
-### Smart India Hackathon '23 Winner by Govt. Of India
-### HackXtreme '23 Winner by IIT Delhi...
+### Smart India Hackathon '23 Winner organized by Govt. Of India
+### HackXtreme '23 Winner organized by IIT Delhi...
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
 <br>
