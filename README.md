@@ -79,8 +79,8 @@
 ### HackXtreme '23 Winner organized by IIT Delhi...
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
-<br>
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=exploring-solver&show_icons=true&theme=dark#gh-dark-mode-only)
+<br>
 
 <div align="center">
 
