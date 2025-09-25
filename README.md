@@ -72,7 +72,7 @@
 ![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=flat&logo=cpanel&logoColor=white)
 ![aaPanel](https://img.shields.io/badge/aaPanel-%231E90FF.svg?style=flat&logo=aaPanel&logoColor=white)
 
-
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=exploring-solver&show_icons=true&bg_color=00000000)
 ## <img src="https://media.giphy.com/media/IX96Ceg5hiMNBn7Ls7/giphy.gif" width="35"><b>Some Achievements</b>
 ### Build for Bharat '24 Winner powered by Google Cloud, Paytm and Antler
 ### Smart India Hackathon '23 Winner organized by Govt. Of India
